@@ -10,4 +10,5 @@ Good stuffs. Hope it meets your needs
 2. Download or Clone
 3. In your preferred cmd, navigate to the application folder 
 4. Run _composer install_ (that should install all dependencies needed for the application to run)
+5. Run _php artisan key:generate_ 
 5. Explore, Use, Comment
