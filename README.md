@@ -9,6 +9,6 @@ Good stuffs. Hope it meets your needs
 1. Ensure your device can run Laravel applications (if you're new to Laravel check out https://laravel.com/docs)
 2. Download or Clone
 3. In your preferred cmd, navigate to the application folder 
-4. Run _composer install_ (that should install all dependencies needed for the application to run)
-5. Run _php artisan key:generate_ 
+4. Run `composer install` (that should install all dependencies needed for the application to run)
+5. Run `php artisan key:generate` 
 5. Explore, Use, Comment
